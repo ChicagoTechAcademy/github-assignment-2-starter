@@ -1,9 +1,9 @@
 # :wave: The Basics of GitHub 
 
----
+## Directions:
 
-### This is modified from material provided by GitHub Classroom
-Modifications are simply to put the material covered in scope
+### Complete the worksheet provided for you. 
+
 
 ---
 
