@@ -1,3 +1,5 @@
+# Making some changes, because reasons
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
